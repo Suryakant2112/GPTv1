@@ -71,4 +71,3 @@ To improve upon the Bigram Model, I implemented **GPT-1**, which utilizes the **
 - **Use Larger Datasets** (e.g., books, Wikipedia) for better training.
 - **Increase Model Size** (`n_embd`, `n_head`, `n_layer`) for richer representations.
 - **Train on GPUs** to speed up computation.
-- **Implement GPT-2 or GPT-3-like Features** (Layer Normalization, Bigger Context Window, Pretraining on Diverse Data).
